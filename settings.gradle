@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='CSCI 3130 Project'

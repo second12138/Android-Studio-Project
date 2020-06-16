@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CSCI 3130 Project</string>
+
+    <string name="Account">Already have an account?</string>
+    <string name="welcome">Welcome! You are logged in. This homepage will be more exciting later</string>
+    <string name="logout">Logout</string>
+    <string name="Register">Register</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+
+
+    <string name="name">Name</string>
+    <string name="add_new_medication">Add New Medication</string>
+    <string name="add_new_dosage">Add New Dosage</string>
+    <string name="dosage">dosage</string>
+    <string name="add">Add</string>
+
+
+    <string name="title_activity_medication_detail">MedicationDetail</string>
+    <string name="ToUserList">Go to your medications</string>
+    <string name="backHome">Back to home page</string>
+    <string name="addMed">Add medication from Pharmacy</string>
+    <string name="toHome">Back to home</string>
+    <string name="sideeffects">Side Effects</string>
+    <string name="totdos">Total Dosage</string>
+    <string name="time">Time</string>
+
+</resources>
